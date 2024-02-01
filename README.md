@@ -1,0 +1,6 @@
+- 👋 Hi, Everyone, I’m Ugur Atakan
+- 👀 I’m interested in Javascript, React,React-Native and NodeJS
+- 🌱 I’m currently learning Swift and UI
+- 💞️ I’m looking to collaborate on Mobile Apps.
+- 📫 You can reach me instagram@uguratakan.js
+- 😄 Pronouns: Mobile Application Developer
